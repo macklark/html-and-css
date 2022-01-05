@@ -6,7 +6,7 @@ My notes and code on HTML and CSS
 
 # **HTML**
 
-## **Contents**
+**Contents**
 
-- ## [Basics](https://github.com/macklark/html-and-css)
-- ## [Forms](https://github.com/macklark/html-and-css)
+- [Basics](https://github.com/macklark/html-and-css)
+- [Forms](https://github.com/macklark/html-and-css)
