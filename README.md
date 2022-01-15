@@ -10,3 +10,4 @@ My notes and code on HTML and CSS
 - [Forms](https://github.com/macklark/html-and-css/tree/master/forms)
 - [CSS_basics](https://github.com/macklark/html-and-css/tree/master/css/Basics)
 - [Inline_and_block_level](https://github.com/macklark/html-and-css/tree/master/inline_and_block_level)
+- [Selectors_and_declarators](https://github.com/macklark/html-and-css/tree/master/selectors_and_declarators)
