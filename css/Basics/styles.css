@@ -1,0 +1,35 @@
+/* CSS is a stylesheets language that defines how html elements should be styled */
+
+/* Here the h1 is a selector */
+/* whereas everything inside the h1 is a declaration */
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #fff;
+  background-color: #000;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+#container p {
+  text-align: center;
+  line-height: 30px;
+  letter-spacing: 3px;
+  column-count: 3;
+  column-gap: 20px;
+}
+
+ul {
+  border: 1px solid crimson;
+  margin: 10px;
+}
+
+li {
+  list-style-type: none;
+  text-shadow: 2px 2px lightcoral;
+}
