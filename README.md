@@ -8,5 +8,5 @@ My notes and code on HTML and CSS
 
 **Contents**
 
-- [Basics](https://github.com/macklark/html-and-css)
-- [Forms](https://github.com/macklark/html-and-css)
+- [Basics](https://github.com/macklark/html-and-css/tree/master/basics)
+- [Forms](https://github.com/macklark/html-and-css/tree/master/forms)
