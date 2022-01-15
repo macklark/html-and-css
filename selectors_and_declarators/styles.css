@@ -1,0 +1,78 @@
+/* This selector applies to all p tags. */
+/* Like a global styling for every p tag. */
+p {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid violet;
+}
+
+/* But what if we want to select only a specific p tag? */
+
+.paraone {
+  color: red;
+}
+
+/* . represents the class name. */
+
+p.paraone {
+  color: orange;
+}
+
+.paratwo {
+  color: blueviolet;
+}
+
+/* # represents the id.  */
+#parathree {
+  color: yellowgreen;
+}
+
+/* This is a parent selector. */
+/* With a parent selector we can select all the children elements of a parent element. */
+/* For a parent selector to be useful, should leave a space between the parent selector and the child selector.  */
+/* .parent-container p {
+  color: green;
+} */
+
+/* This is a attribute selector. */
+/* We use [] bracket notation to select an attribute.  */
+/* Here href is the attribute */
+a[href = "https://ganesh.vercel.app"]
+{
+  background-color: violet;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+div.paraone {
+  margin-top: 20px;
+}
+
+/* The asterix (*) is a universal selector. */
+/* It selects all the elements with google present in it like the below example. */
+a[href*="google"] {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* The $ sign is a pseudo class. */
+/* It is used to select elements with a attribute value which ends with a specific value. */
+a[href$=".in"] {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+div {
+  color: turquoise;
+}
+
+/* Specificity is the order in which the selectors are applied. */
+/* As per CSS rules, directly targeted elements will always take the precedence over rules which an element inherits from its ancestor. */

@@ -4,8 +4,6 @@
 
 My notes and code on HTML and CSS
 
-# **HTML**
-
 **Contents**
 
 - [Basics](https://github.com/macklark/html-and-css/tree/master/basics)
