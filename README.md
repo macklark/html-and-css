@@ -13,3 +13,4 @@ My notes and code on HTML and CSS
 - [Selectors_and_declarators](https://github.com/macklark/html-and-css/tree/master/selectors_and_declarators)
 - [Semantic_elements](https://github.com/macklark/html-and-css/tree/master/semantic_tags)
 - [Spider-man](https://github.com/macklark/html-and-css/tree/master/spiderman)
+- [Pseudo-classes](https://github.com/macklark/html-and-css/tree/master/pseudo_classes)
