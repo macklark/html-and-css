@@ -46,7 +46,6 @@ nav ul li a {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  text-align: center;
 }
 
 .banner img {
@@ -130,4 +129,15 @@ footer {
   font-family: "Permanent Marker", cursive;
   font-size: 1.2rem;
   text-align: center;
+}
+
+/* Media  queries help us to make our website responsive */
+@media screen and (max-width: 768px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+
+  main p {
+    font-size: 1.5rem;
+  }
 }
